@@ -1,0 +1,3 @@
+pyworld
+notebook
+librosa
